@@ -2,7 +2,7 @@
 Private repo for record pieces.
 
 #161020
-- is there a case, that comment-good in develop enviroment, comment-none in production enviroment.
+- Is there a case, that comment-good in develop enviroment, comment-none in production enviroment? One command can do all the things for the comment erase job, with necessary info tips.
 
 #161014
 - php system clone, must notice timezone
