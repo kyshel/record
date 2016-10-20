@@ -1,6 +1,9 @@
 # record
 Private repo for record pieces.
 
+#161020
+- is there a case, that comment-good in develop enviroment, comment-none in production enviroment.
+
 #161014
 - php system clone, must notice timezone
 - good practice: code match db , the case-sensitive 
