@@ -1,6 +1,13 @@
 # record
 Private repo for record pieces.
 
+
+
+
+
+#161022
+-  failed to load command: jekyll (/usr/local/bin/jekyll),see https://github.com/jekyll/jekyll/issues/5423
+
 #161020
 - Is there a case, that comment-good in develop enviroment, comment-none in production enviroment? One command can do all the things for the comment erase job, with necessary info tips.
 - Code Review
