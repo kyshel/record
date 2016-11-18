@@ -1,6 +1,8 @@
 # record
 Private repo for record pieces.
 
+# 161118
+- use client side code to interact with the GitHub API.
 
 # 161114
 - When I need to master one skill, I usually google it for its specific features, after absorbed enough detail, I will find a system book. It's efficient. By the way, I am using python know. I am looking for 'tuple'.
