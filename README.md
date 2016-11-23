@@ -1,6 +1,9 @@
 # record
 Private repo for record pieces.
 
+
+# 161124
+- blog
 # 161123
 - commentless
 
