@@ -2,10 +2,11 @@
 Private repo for record pieces.
 
 # 161125
-- mogondb
+- mogondb,index
 
 # 161124
 - blog
+
 # 161123
 - commentless
 
