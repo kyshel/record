@@ -6,6 +6,7 @@ Private repo for record pieces.
  ci
  
  s tarlight
+ react
 # 161210
 tomcat
 
