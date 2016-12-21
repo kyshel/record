@@ -6,7 +6,7 @@ Private repo for record pieces.
  cet6
  ci
  ，
- s tarlight
+ s tarlight。
  react
 # 161210
 tomcat
