@@ -7,6 +7,7 @@ session_start();
 <html>
 <head>
 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
 
@@ -41,7 +42,7 @@ session_start();
 
 
 	<form action="./" method="post">
-		<input type="text" name="foo" required>
+		<input type="password" name="foo" required>
 		<input type="submit" value=" ">
 	</form>
 
